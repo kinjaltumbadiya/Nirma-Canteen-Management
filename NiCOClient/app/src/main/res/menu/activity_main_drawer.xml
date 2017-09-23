@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/purchase_food"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Purchase Food" />
+        <item
+            android:id="@+id/food_history"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Food History" />
+        <item
+            android:id="@+id/my_order"
+            android:icon="@drawable/ic_menu_send"
+            android:title="My Food Orders" />
+        <item
+            android:id="@+id/transfer_cp"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Transfer CanteenPoints" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Logout" />
+    </group>
+
+
+
+</menu>
